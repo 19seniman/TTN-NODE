@@ -12,3 +12,23 @@
 
 🔘 Run Node 
 ✅ done
+
+
+## INSTALLATION
+
+```
+ git clone 
+```
+```
+cd 
+```
+```
+npm init -y
+```
+```
+npm install dotenv axios ws uuid https-proxy-agent random-useragent
+```
+~ Run The scripts
+```
+node lim.js
+```
