@@ -17,10 +17,10 @@
 ## INSTALLATION
 
 ```
- git clone 
+ git clone https://github.com/19seniman/TTN-NODE.git
 ```
 ```
-cd 
+cd TTN-NODE
 ```
 ```
 npm init -y
